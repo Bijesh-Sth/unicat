@@ -28,7 +28,7 @@ const Header = () => {
                                 <li>Have any questions?</li>
                                 <li className="flex gap-2 items-center">
                                     <MdLocalPhone />
-                                    <p>001-1234-88888</p>
+                                    <p>981111111</p>
                                 </li>
                                 <li className="flex gap-2 items-center">
                                     <MdEmail />

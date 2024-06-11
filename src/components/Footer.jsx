@@ -40,8 +40,8 @@ const Footer = () => {
                     <div className="flex flex-col gap-6 text-third">
                         <p className="text-lg font-bold text-white">Contact Us</p>
                         <p className="text-sm">Email: info@deercreative@gmail.com</p>
-                        <p className="text-sm">Phone: +(88) 111 555 666</p>
-                        <p className="text-sm">40 Baria Street 133/2 New York City, United States</p>
+                        <p className="text-sm">Phone: +(977) 111 555 666</p>
+                        <p className="text-sm">Kathmandu, Nepal</p>
                     </div>
                     {/* pages */}
                     <div className="flex flex-col gap-6 text-third px-0 lg:px-10">
@@ -87,7 +87,7 @@ const Footer = () => {
                 <div className="container text-third">
                     <hr />
                     <div className="flex justify-between items-center text-sm font-light py-3">
-                        <p>Copyright &copy;2024 All Rights Reserved. This website was developed using a template from ThemeWagon</p>
+                        <p>Copyright &copy;2024 All Rights Reserved. Amnil Technologies Pvt. Ltd.</p>
                         <div className="flex gap-10">
                             <p>Copyright Notification</p>
                             <p>Terms of Use</p>

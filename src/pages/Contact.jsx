@@ -46,18 +46,13 @@ const Contact = () => {
                                 It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The
                                 point of using Lorem Ipsum is that it has a distribution of letters.
                             </p>
-                            <p className="text-lg text-secondary my-5 font-bold">New York Office</p>
+                            <p className="text-lg text-secondary my-5 font-bold">Office</p>
                             <ul className="text-sm text-third-2 leading-8">
-                                <li>T8/480 Collins St, Melbourne VIC 3000, New York</li>
-                                <li>1-234-567-89011</li>
+                                <li>kathmandu, Nepal</li>
+                                <li>+977-981111111</li>
                                 <li>info.deercreative@gmail.com</li>
                             </ul>
-                            <p className="text-lg text-secondary my-5 font-bold">Australia Office</p>
-                            <ul className="text-sm text-third-2 leading-8">
-                                <li>Forrest Ray, 191-103 Integer Rd, Corona Australia</li>
-                                <li>1-234-567-89011</li>
-                                <li>info.deercreative@gmail.com</li>
-                            </ul>
+                            
                         </div>
                     </div>
                 </div>

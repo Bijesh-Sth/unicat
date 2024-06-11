@@ -22,7 +22,7 @@ const CoursesBlog = ({ image, title, name, description, price }) => {
                                 <p>5 Rating</p>
                             </div>
                         </div>
-                        <div className="font-bold text-primary text-xl">${price}</div>
+                        <div className="font-bold text-primary text-xl">Rs. {price}</div>
                     </div>
                 </div>
             </div>
